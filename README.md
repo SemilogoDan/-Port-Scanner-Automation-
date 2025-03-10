@@ -15,6 +15,15 @@ A Python-based automation project to scan open ports using the Nmap module. This
 
 ---
 
+## Demo
+### Screenshot
+![Screenshot](Animation.gif)
+
+### Animated GIF
+![Demo](demo.gif)
+
+---
+
 ## Prerequisites
 1. **Python 3.x**: Install Python from [python.org](https://www.python.org/).
 2. **Nmap**: Install Nmap from [nmap.org](https://nmap.org/download.html).
