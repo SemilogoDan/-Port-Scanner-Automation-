@@ -16,7 +16,6 @@ A Python-based automation project to scan open ports using the Nmap module. This
 ---
 
 ## Demo
-### Screenshot
 ![Screenshot](Animation.gif)
 
 
